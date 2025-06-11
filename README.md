@@ -1,4 +1,4 @@
-# Custom-Armour-Minecraft
+# Custom Armour
 
 Crafted diligently over a month and a half in 2023, the Minecraft Server
 Plugin stands as a testament to my proficiency in Java programming and game
