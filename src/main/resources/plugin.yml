@@ -1,0 +1,4 @@
+name: CustomArmour
+version: '${project.version}'
+main: me.justiced.customarmour.CustomArmour
+api-version: 1.19

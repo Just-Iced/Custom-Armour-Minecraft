@@ -1,0 +1,16 @@
+me\justiced\customarmour\crafting\TNTArmorCrafting.class
+me\justiced\customarmour\crafting\BlazeArmorCrafting.class
+me\justiced\customarmour\crafting\WoodArmorCrafting.class
+me\justiced\customarmour\CustomArmour.class
+me\justiced\customarmour\DataClass.class
+me\justiced\customarmour\eventHandlers\PlayerAttackEvent.class
+me\justiced\customarmour\eventHandlers\PlayerDamageEvent.class
+me\justiced\customarmour\crafting\GolemArmorCrafting.class
+me\justiced\customarmour\crafting\ArmorCrafter.class
+me\justiced\customarmour\eventHandlers\PlayerCrouchEvent.class
+me\justiced\customarmour\crafting\FeatherArmorCrafting.class
+me\justiced\customarmour\eventHandlers\TntExplosionEvent.class
+me\justiced\customarmour\crafting\CactusArmorCrafting.class
+me\justiced\customarmour\eventHandlers\PlayerInteractEvent.class
+me\justiced\customarmour\crafting\BrewingArmorCrafting.class
+me\justiced\customarmour\crafting\ChainArmorCrafting.class
